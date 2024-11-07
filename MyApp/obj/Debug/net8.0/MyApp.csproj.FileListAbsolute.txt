@@ -1,0 +1,14 @@
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/bin/Debug/net8.0/MyApp
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/bin/Debug/net8.0/MyApp.dll
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/bin/Debug/net8.0/MyApp.pdb
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/obj/Debug/net8.0/MyApp.dll
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/obj/Debug/net8.0/MyApp.pdb
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/Users/jsluis/Documents/GitHub/LeetCodePractice/MyApp/obj/Debug/net8.0/ref/MyApp.dll
