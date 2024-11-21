@@ -9,6 +9,7 @@ class RecentCounter {
         
         for (int i = l.size() - 1; i >= 0; i--) {
             if (l.get(i) < t - 3000) {
+                l = l.subList(i+1, l.size());
                 l.add(t);
                 return count;
             }
